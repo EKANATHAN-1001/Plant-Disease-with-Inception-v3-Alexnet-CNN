@@ -1,8 +1,6 @@
-# Plant-Disease-with-Inception-v3-Alexnet-CNN
-
 # Here the Mobile Application 
 
-Home page of mobile app.
+<div algin="center">Home page of mobile app.
 
 ![1](https://github.com/EKANATHAN-1001/Plant-Disease-with-Inception-v3-Alexnet-CNN/assets/116795679/cf386025-9371-4314-858b-bf1ba2fd633c)
 
@@ -40,3 +38,4 @@ App predicted the image as "Ceder Apple Rust"
 
 
 
+</div>
