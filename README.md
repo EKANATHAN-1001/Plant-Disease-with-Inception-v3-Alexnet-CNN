@@ -1,4 +1,4 @@
-# Here the Mobile Application 
+# Mobile Application to predict the plant disease with leaf image.
 
 Home page of mobile app.
 
