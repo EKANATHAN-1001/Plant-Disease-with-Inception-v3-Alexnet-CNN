@@ -1,11 +1,11 @@
 # Here the Mobile Application 
 
-<div algin="center">Home page of mobile app.
+** Home page of mobile app. **
 
 ![1](https://github.com/EKANATHAN-1001/Plant-Disease-with-Inception-v3-Alexnet-CNN/assets/116795679/cf386025-9371-4314-858b-bf1ba2fd633c)
 
 
-This page is to select image of plant from gallery or through camera
+** This page is to select image of plant from gallery or through camera. **
 
 ![1_1](https://github.com/EKANATHAN-1001/Plant-Disease-with-Inception-v3-Alexnet-CNN/assets/116795679/e5bbe28a-568a-40ab-907c-be3ff45b65a0)
 
